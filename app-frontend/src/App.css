@@ -1,0 +1,11 @@
+.container-fluid{
+    align-content:center;
+    background-color: aquamarine;
+}
+
+.round-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
